@@ -1,0 +1,8 @@
+.bg-color {
+  height: 50pc;
+  width: 10%;
+  background-image: url(photo/myntra.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
